@@ -41,6 +41,7 @@ var partner =" Endy";
 var place =" Paris";
 var job = " programmer";
 console.log( "You will be a"+ job + " in " +place+ " and married to" +partner+ " with " +children+ " kids")
+console.log( "You will be a"+ job + " in " +place+ " and married to" +partner+ " with " +children+ " kids")
 
 
 
